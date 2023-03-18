@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">I am a final year student studying a Bachelor of Computer Science at Monash University</h3>
 
-- 🌱 I’m currently learning **React and Python(AI)**
-
-- 💬 Ask me about **python**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **ryanleung1029@gmail.com**
 
